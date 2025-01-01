@@ -48,3 +48,8 @@ Where:
     ```bash
     docker compose down -v
     ```
+
+
+
+
+![Alt text](assets/pipeline_design.png)
